@@ -1,0 +1,251 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wrecked",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5277777777777778,
+  "sample": 36,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ab7019ec-057d-428e-b815-cc2ef69ca891"
+            }
+          },
+          {
+            "frame": 0.027777777777777776,
+            "value": {
+              "__uuid__": "747e2490-2334-4448-8227-2226c79520a2"
+            }
+          },
+          {
+            "frame": 0.05555555555555555,
+            "value": {
+              "__uuid__": "181429b2-b603-40d6-86f2-177a960d3097"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "66f8b4be-fa8e-4923-ba66-34a39f78f941"
+            }
+          },
+          {
+            "frame": 0.1111111111111111,
+            "value": {
+              "__uuid__": "f20b9281-683e-44ec-8af3-184cdd07d28d"
+            }
+          },
+          {
+            "frame": 0.1388888888888889,
+            "value": {
+              "__uuid__": "b5f8e916-1be6-46d0-bb84-5ecd36919c89"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "35f1b7d0-eb39-465a-95c5-f9e3a404570d"
+            }
+          },
+          {
+            "frame": 0.19444444444444445,
+            "value": {
+              "__uuid__": "e780215d-b534-4708-b58f-079162c9484a"
+            }
+          },
+          {
+            "frame": 0.2222222222222222,
+            "value": {
+              "__uuid__": "bc3d9a41-e37b-4d3c-8fe7-a0e5f263fd1c"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a3516bb2-cb84-4ec9-affe-cc5e8038fcea"
+            }
+          },
+          {
+            "frame": 0.2777777777777778,
+            "value": {
+              "__uuid__": "b811dead-e3ed-4ca2-ae7e-061ab8ad41d1"
+            }
+          },
+          {
+            "frame": 0.3055555555555556,
+            "value": {
+              "__uuid__": "4521b030-c742-4977-95b8-3af7f2185623"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5ebbf70f-016c-4c52-845c-1695830c7b7e"
+            }
+          },
+          {
+            "frame": 0.3611111111111111,
+            "value": {
+              "__uuid__": "eca62c14-8be5-4a73-88c9-afe0011fe358"
+            }
+          },
+          {
+            "frame": 0.3888888888888889,
+            "value": {
+              "__uuid__": "f849f439-38cc-4ec7-9016-dab6827a06de"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "bfd3ff3d-a6c7-490f-8aba-0594497a2c2d"
+            }
+          },
+          {
+            "frame": 0.4444444444444444,
+            "value": {
+              "__uuid__": "2e4a1a9c-72c7-4b07-ae7a-29a09ed89cd3"
+            }
+          },
+          {
+            "frame": 0.4722222222222222,
+            "value": {
+              "__uuid__": "ddbe00e1-3f7a-4c96-82f0-93430716c2f3"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3509e69a-e9bd-415b-9f47-87c97901c3f0"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 160,
+              "height": 154
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 160,
+              "height": 113
+            }
+          },
+          {
+            "frame": 0.2777777777777778,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 160,
+              "height": 86
+            }
+          },
+          {
+            "frame": 0.3611111111111111,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 160,
+              "height": 65
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 160,
+              "height": 70
+            }
+          }
+        ],
+        "offset": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0,
+              "y": -2
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": -1,
+              "y": -25
+            }
+          },
+          {
+            "frame": 0.2777777777777778,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": -1,
+              "y": -37
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": -1,
+              "y": -47
+            }
+          },
+          {
+            "frame": 0.3611111111111111,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 2,
+              "y": -51
+            }
+          },
+          {
+            "frame": 0.4722222222222222,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": -1,
+              "y": -47
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 2,
+              "y": -1
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -102.125
+        },
+        {
+          "frame": 0.4722222222222222,
+          "value": -95.374
+        },
+        {
+          "frame": 0.5,
+          "value": -141.044
+        }
+      ]
+    }
+  },
+  "events": []
+}

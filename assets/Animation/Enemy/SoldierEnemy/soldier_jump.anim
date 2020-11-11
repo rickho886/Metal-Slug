@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "soldier_jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5a721b63-d708-47da-829d-6e3783a58132"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "11db965d-d5e0-49aa-92ab-80653c4fb4be"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "39be5e33-deb5-451d-b0b9-12fee13c2b5f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0597dd80-7fb1-40e8-a85e-04a949d5a31d"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e7c59a8b-6556-4731-a491-a7cb948587ac"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

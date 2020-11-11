@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "061064bd-4263-4922-9042-8e8201c7a62c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Neo Geo NGCD - Metal Slug 2 Metal Slug X - Weapon SFX": {
+      "ver": "1.0.4",
+      "uuid": "e34dbdc7-4d86-4287-acba-b19acb7a80d5",
+      "rawTextureUuid": "061064bd-4263-4922-9042-8e8201c7a62c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 605,
+      "height": 6950,
+      "rawWidth": 605,
+      "rawHeight": 6950,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

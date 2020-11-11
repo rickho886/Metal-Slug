@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "squat_top_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "525ef919-2e29-41ca-9197-8cf2c0233693"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "61c1b54a-3979-46f0-8722-165cae2e845b"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f2ff4c13-8ad4-48e0-b9e5-ce7ea482422a"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "794da1cd-259a-4d4f-a297-833d9a4287bf"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 8.506
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 4.49
+        }
+      ]
+    }
+  },
+  "events": []
+}

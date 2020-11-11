@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "squat_top_2_knife",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "067480f3-adc4-4663-9b68-107bebe1fdb5"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "42a67292-0df1-4bfb-a7d4-7167d90f1ef8"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "202b1958-548e-4e83-b8b9-b62d5a41505d"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a4201dcd-3966-4504-82e4-5553a42fddd3"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 18.644
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 17.561
+        }
+      ]
+    }
+  },
+  "events": []
+}

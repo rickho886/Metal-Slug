@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "projectileBounce",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2d46ab15-3b34-4420-813c-7309af1477c7"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "398b7e86-68b8-4f10-bb33-9c51ce24c241"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "7aeb3b6f-6759-4ef0-90e0-7c6d799999d5"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "12ba31ef-e852-43aa-8ecf-c45d22538956"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "84c8ad76-6f10-43bf-b617-69365d6e4bdb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

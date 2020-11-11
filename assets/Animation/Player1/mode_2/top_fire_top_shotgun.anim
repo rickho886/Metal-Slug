@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "top_fire_top_shotgun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 59.437
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": 0.884
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d0d62e65-2140-4445-8d06-5585d89aa5d2"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "77087804-204d-4317-8cad-2d51e7f6ef4c"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "add62fdb-7594-4f03-90a9-b92a28446936"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "604e132a-f3dc-46b8-9a99-035b4ea164b6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d0d62e65-2140-4445-8d06-5585d89aa5d2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

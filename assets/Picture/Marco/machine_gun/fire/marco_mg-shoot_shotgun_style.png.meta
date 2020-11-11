@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "c28d72cf-16f2-4267-90a8-0a1e8a4b3a09",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "marco_mg-shoot_shotgun_style": {
+      "ver": "1.0.4",
+      "uuid": "697943a2-0712-445d-a8b9-cecf54f41f7f",
+      "rawTextureUuid": "c28d72cf-16f2-4267-90a8-0a1e8a4b3a09",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 32,
+      "rawWidth": 170,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

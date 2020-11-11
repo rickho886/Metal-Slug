@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "90e3f474-6490-411d-857b-52db3c70a725",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "marco_mg-look_up": {
+      "ver": "1.0.4",
+      "uuid": "809aa3b0-7b3d-4c86-afb5-00e3c68074a9",
+      "rawTextureUuid": "90e3f474-6490-411d-857b-52db3c70a725",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 75,
+      "height": 34,
+      "rawWidth": 75,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Shotgun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ccd5b71f-99fc-463d-9ff0-a68c02991212"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "eb3ada9f-6e0b-4c6f-b20c-a5c20b1ca6b5"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "debc34d2-163e-4524-8c50-3a39beb6553b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "801412fb-64a7-49e8-8438-8f8656efd185"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

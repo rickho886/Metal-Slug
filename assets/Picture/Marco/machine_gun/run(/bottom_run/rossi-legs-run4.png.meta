@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "f4608c1c-e90b-4058-8660-c7a7c4ae00d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "rossi-legs-run4": {
+      "ver": "1.0.4",
+      "uuid": "3e98abb6-0a9b-4259-8900-d5abce51eb68",
+      "rawTextureUuid": "f4608c1c-e90b-4058-8660-c7a7c4ae00d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 38,
+      "height": 40,
+      "rawWidth": 38,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

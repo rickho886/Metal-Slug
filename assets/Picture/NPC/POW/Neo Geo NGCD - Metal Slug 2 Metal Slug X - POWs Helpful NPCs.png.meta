@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "0d316045-9229-4639-84e4-3bf43e1f5b9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Neo Geo NGCD - Metal Slug 2 Metal Slug X - POWs Helpful NPCs": {
+      "ver": "1.0.4",
+      "uuid": "8481bbeb-0a07-4760-94ac-4c9dbc570ec1",
+      "rawTextureUuid": "0d316045-9229-4639-84e4-3bf43e1f5b9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 578,
+      "height": 2977,
+      "rawWidth": 578,
+      "rawHeight": 2980,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "60590fed-e41c-4a2d-93e2-9addd948c760",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "MissileTowersBase-day_01": {
+      "ver": "1.0.4",
+      "uuid": "91337c99-4a83-4f5c-9ef2-386bbcf7990c",
+      "rawTextureUuid": "60590fed-e41c-4a2d-93e2-9addd948c760",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 9,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 807,
+      "height": 257,
+      "rawWidth": 807,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

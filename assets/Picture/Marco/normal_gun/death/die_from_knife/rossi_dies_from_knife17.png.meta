@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "39208d33-0be8-4eb1-af3d-d1835ec56456",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "rossi_dies_from_knife17": {
+      "ver": "1.0.4",
+      "uuid": "3f394dcb-9618-44f8-8e9f-6e6319b49915",
+      "rawTextureUuid": "39208d33-0be8-4eb1-af3d-d1835ec56456",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8,
+      "offsetY": -24,
+      "trimX": 16,
+      "trimY": 48,
+      "width": 60,
+      "height": 32,
+      "rawWidth": 76,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "top_2_jump_lookdown",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 1.545
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 10.01
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "95cc7d07-a334-4426-9a95-1f75323fdb39"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

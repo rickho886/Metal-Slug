@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "top_fire_front_laser",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2d3bb8a6-5ab2-4666-ae47-2aa0a04beb3f"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "8f7c0f30-9485-427a-b0b7-0d42feba9bdb"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "14a127d9-6423-4006-9835-c6083067281e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0638cf05-66e9-420f-a6bb-5c921ffe4cba"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d009029d-d92f-4855-bc7e-96f19a141573"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "f93dc309-db58-4eaa-adba-d14dea107184"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0.4166666666666667,
+          "value": 17.401
+        }
+      ],
+      "y": [
+        {
+          "frame": 0.4166666666666667,
+          "value": 34.29
+        }
+      ]
+    }
+  },
+  "events": []
+}

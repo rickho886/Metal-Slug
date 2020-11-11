@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "2e801fc3-9198-47e2-bcef-95e2089cbe86",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "sarubia_idle": {
+      "ver": "1.0.4",
+      "uuid": "c058320e-ea6a-4de8-8490-ba742c5ddf21",
+      "rawTextureUuid": "2e801fc3-9198-47e2-bcef-95e2089cbe86",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 146,
+      "height": 96,
+      "rawWidth": 147,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

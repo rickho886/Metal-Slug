@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "explode",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6d0bae75-d583-4015-a84c-1b1c34ea5cc8"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "284cf6f9-33a7-48a6-a92e-7f32c095dc6f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d8d5f929-e285-48e1-9b47-da55e50c3d39"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "233a77b3-cf95-4023-9724-17203b525a61"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 107,
+              "height": 146
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 129,
+              "height": 117
+            }
+          }
+        ],
+        "offset": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 2,
+              "y": -14
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": -7,
+              "y": -13
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -70.795
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": -76.634
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": -79.907
+        },
+        {
+          "frame": 0.25,
+          "value": -101.148
+        }
+      ]
+    }
+  },
+  "events": []
+}
