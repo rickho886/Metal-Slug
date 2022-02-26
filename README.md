@@ -1,6 +1,8 @@
 # Metal Slug Imitation built with Cocos Creator
 Demo : https://metalslug-a2729.web.app/
 
+Team : 黃瀅嘉，謝立倫，陸卡雷，許珉濠
+
 ## Membership Mechanism
 
 * Start Menu
